@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_label">AutoClick</string>
+    <string name="service_desc">Tự động chạm vào vị trí đã chọn và dừng khi màn hình thay đổi.</string>
+</resources>
